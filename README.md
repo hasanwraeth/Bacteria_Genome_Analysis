@@ -7,4 +7,4 @@ Bacterial Genome Analysis using BRIG, PROKKA etc.
 
 Genome Comaprison            |  Genome analysis
 :-------------------------:|:-------------------------:
-![](https://github.com/hasanwraeth/Bacteria_Genome_Analysis/blob/main/Compare.jpg|width=100) |  ![](https://github.com/hasanwraeth/Bacteria_Genome_Analysis/blob/main/Agy99_act.png)
+![](https://github.com/hasanwraeth/Bacteria_Genome_Analysis/blob/main/Compare.jpg=250x250) |  ![](https://github.com/hasanwraeth/Bacteria_Genome_Analysis/blob/main/Agy99_act.png)
