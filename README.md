@@ -5,6 +5,6 @@
 
 Bacterial Genome Analysis using BRIG, PROKKA etc.
 
-Genome Comaprison            |  Correlation 
+Genome Comaprison            |  Genome analysis
 :-------------------------:|:-------------------------:
-![](https://github.com/hasanwraeth/Bacteria_Genome_Analysis/blob/main/Compare.jpg)  |  ![](https://github.com/hasanwraeth/Bacteria_Genome_Analysis/blob/main/Rplot05.png)
+![](https://github.com/hasanwraeth/Bacteria_Genome_Analysis/blob/main/Compare.jpg)  |  ![](https://github.com/hasanwraeth/Bacteria_Genome_Analysis/blob/main/Agy99_act.png)
