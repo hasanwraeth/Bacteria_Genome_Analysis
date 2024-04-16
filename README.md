@@ -7,4 +7,4 @@ Bacterial Genome Analysis using BRIG, PROKKA etc.
 
 Genome Comaprison            |  Correlation between SNPs
 :-------------------------:|:-------------------------:
-![](https://github.com/hasanwraeth/Bacteria_Genome_Analysis/blob/main/Compapre.jpg)  |  ![](https://github.com/hasanwraeth/Bacteria_Genome_Analysis/blob/main/Rplot05.png)
+![](https://github.com/hasanwraeth/Bacteria_Genome_Analysis/blob/main/Compare.jpg)  |  ![](https://github.com/hasanwraeth/Bacteria_Genome_Analysis/blob/main/Rplot05.png)
