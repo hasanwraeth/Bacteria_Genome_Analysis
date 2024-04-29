@@ -3,7 +3,7 @@
 ![Status](https://img.shields.io/badge/status-alpha-red)
 ![DOI](https://img.shields.io/badge/DOI-in__progress-blue)
 
-Bacterial Genome Analysis using BRIG, PROKKA etc.
+Bacterial Genome Analysis using [BRIG](https://beatsonlab.com/softwares/brig/), [PROKKA](https://github.com/tseemann/prokka?tab=readme-ov-file) etc.
 
 Genome Comaprison            |  Genome analysis
 :-------------------------:|:-------------------------:
