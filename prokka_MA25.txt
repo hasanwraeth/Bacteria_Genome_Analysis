@@ -1,0 +1,16 @@
+organism: Genus species strain 
+contigs: 2453
+bases: 5848105
+CDS: 5388
+gene: 5441
+rRNA: 3
+tRNA: 49
+tmRNA: 1
+
+prokka --prefix MA25 --locustag MA25 --cpus 4 --kingdom Bacteria --addgenes --proteins Agy99.gb contigs.fasta
+
+cds: grep '>' MA25/MA25.faa | wc -l
+Genes: grep '>' MA25/MA25.ffn | wc -l
+
+grep 'hypothetical protein' MA25/MA25.ffn | wc -l
+grep 'IS2404' MA25/MA25.ffn | wc -l
