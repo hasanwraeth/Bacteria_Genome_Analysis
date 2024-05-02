@@ -3,7 +3,7 @@
 ![Status](https://img.shields.io/badge/status-alpha-red)
 ![DOI](https://img.shields.io/badge/DOI-in__progress-blue)
 
-Bacterial Genome Analysis using [BRIG](https://beatsonlab.com/softwares/brig/), [PROKKA](https://github.com/tseemann/prokka?tab=readme-ov-file) etc.
+Bacterial Genome Analysis: Assembly using [SPAdes](https://github.com/ablab/spades), Polishing with [Pilon](https://github.com/broadinstitute/pilon/wiki), Scaffolding with [Ragtag](https://github.com/malonge/RagTag), annotation with [PROKKA](https://github.com/tseemann/prokka?tab=readme-ov-file), visualization with [BRIG](https://beatsonlab.com/softwares/brig/) etc.
 
 Genome Comaprison            |  Genome analysis
 :-------------------------:|:-------------------------:
