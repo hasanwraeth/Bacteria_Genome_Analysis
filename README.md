@@ -12,3 +12,7 @@ Genome Comaprison            |  Genome analysis
 Pan-Genome Matrix            |  Gene proportions
 :-------------------------:|:-------------------------:
 ![](https://github.com/hasanwraeth/Bacteria_Genome_Analysis/blob/main/pangenome_matrix.png) |  ![](https://github.com/hasanwraeth/Bacteria_Genome_Analysis/blob/main/pangenome_pie.png)
+
+Pan-Genome Frequency            |  Gene proportions
+:-------------------------:|:-------------------------:
+![](https://github.com/hasanwraeth/Bacteria_Genome_Analysis/blob/main/pangenome_frequency.png) |  ![](https://github.com/hasanwraeth/Bacteria_Genome_Analysis/blob/main/gene_P7741_Liflandii_Shinsuense.png)
