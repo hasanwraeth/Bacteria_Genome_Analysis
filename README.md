@@ -13,6 +13,6 @@ Pan-Genome Matrix            |  Gene proportions
 :-------------------------:|:-------------------------:
 <img src="https://github.com/hasanwraeth/Bacteria_Genome_Analysis/blob/main/pangenome_matrix.png" width="700"> |  <img src="https://github.com/hasanwraeth/Bacteria_Genome_Analysis/blob/main/pangenome_pie2.png" width="650">
 
-Pan-Genome Frequency            |  Gene proportions
+Pan-Genome Frequency            |  Genetic overlap
 :-------------------------:|:-------------------------:
 <img src="https://github.com/hasanwraeth/Bacteria_Genome_Analysis/blob/main/pangenome_frequency.png" width="675"> |  <img src="https://github.com/hasanwraeth/Bacteria_Genome_Analysis/blob/main/gene_P7741_Liflandii_Shinsuense.png" width="675">
