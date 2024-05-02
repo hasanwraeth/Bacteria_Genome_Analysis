@@ -8,3 +8,7 @@ Bacterial Genome Analysis using [BRIG](https://beatsonlab.com/softwares/brig/), 
 Genome Comaprison            |  Genome analysis
 :-------------------------:|:-------------------------:
 <img src="https://github.com/hasanwraeth/Bacteria_Genome_Analysis/blob/main/Compare.jpg" width="675"> |  ![](https://github.com/hasanwraeth/Bacteria_Genome_Analysis/blob/main/Agy99_act.png)
+
+Pan-Genome Matrix            |  Gene proportions
+:-------------------------:|:-------------------------:
+<img src="https://github.com/hasanwraeth/Bacteria_Genome_Analysis/blob/main/pangenome_matrix.png" width="675"> |  ![](https://github.com/hasanwraeth/Bacteria_Genome_Analysis/blob/main/pangenome_pie.png)
