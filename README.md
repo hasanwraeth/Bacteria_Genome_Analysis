@@ -11,7 +11,7 @@ Genome Comaprison            |  Genome analysis
 
 Pan-Genome Matrix            |  Gene proportions
 :-------------------------:|:-------------------------:
-<img src="https://github.com/hasanwraeth/Bacteria_Genome_Analysis/blob/main/pangenome_matrix.png" width="675"> |  <img src="https://github.com/hasanwraeth/Bacteria_Genome_Analysis/blob/main/pangenome_pie.png" width="675">
+![](https://github.com/hasanwraeth/Bacteria_Genome_Analysis/blob/main/pangenome_matrix.png) |  <img src="https://github.com/hasanwraeth/Bacteria_Genome_Analysis/blob/main/pangenome_pie.png" width="675">
 
 Pan-Genome Frequency            |  Gene proportions
 :-------------------------:|:-------------------------:
