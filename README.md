@@ -5,7 +5,7 @@
 
 1. Assembly using [SPAdes](https://github.com/ablab/spades)
 2. Polishing with [Pilon](https://github.com/broadinstitute/pilon/wiki)
-3. Scaffolding with [Ragtag](https://github.com/malonge/RagTag)
+3. Scaffolding with [RagTag](https://github.com/malonge/RagTag)
 4. Annotation with [PROKKA](https://github.com/tseemann/prokka?tab=readme-ov-file)
 5. Visualization with [BRIG](https://beatsonlab.com/softwares/brig/) etc.
 
