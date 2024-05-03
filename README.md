@@ -9,14 +9,14 @@
 4. Annotation with [PROKKA](https://github.com/tseemann/prokka?tab=readme-ov-file)
 5. Visualization with [BRIG](https://beatsonlab.com/softwares/brig/) etc.
 
-Genome Comaprison            |  Genome analysis
+Genome Comaprison            |  Genome Analysis
 :-------------------------:|:-------------------------:
 <img src="https://github.com/hasanwraeth/Bacteria_Genome_Analysis/blob/main/Compare.jpg" width="675"> |  ![](https://github.com/hasanwraeth/Bacteria_Genome_Analysis/blob/main/Agy99_act.png)
 
-Pan-Genome Matrix            |  Gene proportions
+Pan-Genome Matrix            |  Gene Proportions
 :-------------------------:|:-------------------------:
 <img src="https://github.com/hasanwraeth/Bacteria_Genome_Analysis/blob/main/pangenome_matrix.png" width="700"> |  <img src="https://github.com/hasanwraeth/Bacteria_Genome_Analysis/blob/main/pangenome_pie2.png" width="650">
 
-Pan-Genome Frequency            |  Genetic overlap
+Pan-Genome Gene Frequency            |  Genetic overlap
 :-------------------------:|:-------------------------:
 <img src="https://github.com/hasanwraeth/Bacteria_Genome_Analysis/blob/main/pangenome_frequency.png" width="675"> |  <img src="https://github.com/hasanwraeth/Bacteria_Genome_Analysis/blob/main/gene_P7741_Liflandii_Shinsuense.png" width="675">
