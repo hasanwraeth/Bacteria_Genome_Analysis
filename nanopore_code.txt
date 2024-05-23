@@ -1,0 +1,3 @@
+porechop -i P7741_minion.fastq -o nanopore.trimmed.fa --format fasta -t 10
+
+flye --nano-raw nanopore.trimmed.fa -o assembly -g 5.6m -t 10 -i 2

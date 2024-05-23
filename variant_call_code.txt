@@ -1,0 +1,5 @@
+conda install sickle-trim  
+
+sickle pe -f P7741_R1.fastq.gz -r P7741_R2.fastq.gz -o trim_R1.fastq.gz -p trim_R2.fastq.gz -s trim_S.fastq.gz -t sanger -q 20 -l 20 -g
+
+snippy --cpus 4 --outdir variants --ref Agy99.gb --R1 trim_R1.fastq.gz --R2 trim_R2.fastq.gz 
