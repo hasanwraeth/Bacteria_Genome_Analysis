@@ -1,0 +1,5 @@
+Mamba install staramr
+
+staramr search --pointfinder-organism salmonella -o out2 ./seq/*.fasta
+cut -f 1,3 out/summary.tsv
+column -s$'\t' -t out/summary.tsv 
