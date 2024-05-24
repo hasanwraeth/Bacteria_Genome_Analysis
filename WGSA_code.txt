@@ -1,0 +1,15 @@
+nanoplot --fastq DRR187567.fastq --N50 -o qc_report/DRR_raw
+filtlong --min_length 1000 DRR187567.fastq > DRR.filt.fastq
+flye --nano-raw DRR.filt.fastq -g 2.8m -t 10 -o assembly 
+quast.py -o qc_assembly --threads 8 assembly/assembly.fasta
+staramr search -o DRR_staramr ./assembly/assembly.fasta
+prokka --genus staphylococcus --specie aureus --kingdom Bacteria --cpus 4 --prefix DRR_prokka assembly/assembly.fasta
+
+grep -P '[0-9]+\.[0-9]+\t' detailed_summary.tsv > staramr.filt.tsv # doesn't work
+
+#for staramr_to_gff.py delete rows with no % identity and one of predicted phenotype columns and rename detailed_summary.csv to staramr.filtered.csv
+
+python staramr_to_gff.py   
+
+minimap2 -ax map-ont -t 10 ref/assembly.fasta DRR.filt.fastq | samtools sort -o map/DRR.sort.bam
+samtools index map/DRR.sort.bam 
