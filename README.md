@@ -20,3 +20,7 @@ Pan-Genome Matrix            |  Gene Proportions
 Pan-Genome Gene Frequency            |  Genetic overlap
 :-------------------------:|:-------------------------:
 <img src="https://github.com/hasanwraeth/Bacteria_Genome_Analysis/blob/main/pangenome_frequency.png" width="675"> |  <img src="https://github.com/hasanwraeth/Bacteria_Genome_Analysis/blob/main/gene_P7741_Liflandii_Shinsuense.png" width="675">
+
+Genome Browser View           |  Genome View with BAM
+:-------------------------:|:-------------------------:
+![](https://github.com/hasanwraeth/Bacteria_Genome_Analysis/blob/main/browse1.png) |  ![](https://github.com/hasanwraeth/Bacteria_Genome_Analysis/blob/main/browse2.png)
