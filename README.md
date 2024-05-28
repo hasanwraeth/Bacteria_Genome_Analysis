@@ -23,7 +23,7 @@ Pan-Genome Gene Frequency            |  Genetic overlap
 
 Genome Assembly Map           |  Busco Genome Evaluation
 :-------------------------:|:-------------------------:
-![](https://github.com/hasanwraeth/Bacteria_Genome_Analysis/blob/main/graph.png) |  ![](https://github.com/hasanwraeth/Bacteria_Genome_Analysis/blob/main/busco_figure.png)
+<img src="https://github.com/hasanwraeth/Bacteria_Genome_Analysis/blob/main/graph.png" width="675"> |  ![](https://github.com/hasanwraeth/Bacteria_Genome_Analysis/blob/main/busco_figure.png)
 
 Genome Browser View           |  Genome View with BAM
 :-------------------------:|:-------------------------:
