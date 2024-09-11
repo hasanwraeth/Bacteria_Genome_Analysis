@@ -7,3 +7,15 @@ python gene_count_summary.py P7741 Liflandii Shinsuense pangenome/gene_presence_
 #!/bin/bash
 
 zip -r results QC_* P7741* mlst.csv amr.summary.tab dendogram pangenome *.jpg
+
+In general, your metagenomic assembly pipeline should look like this:
+
+Quality control reads (Fastqc, multiQC) to remove primers, low quality sequences, etc.
+
+Generate contigs and scaffolds using MEGAHIT or SPADES (or variants)
+
+Bin those scaffolds using metabat or maxbin2, then refine those bins using Das Tool and checkM to produce metagenome assembled genomes (MAGs).
+
+Annotate your MAGs using Prodigal or Prokka to identify coding regions.
+
+Functionally annotate those coding regions using DIAMOND and reference databases (e.g., UniRef90, eggNOG).
